@@ -1,0 +1,60 @@
+Run 1: Max profit: 309
+Solution:1111010000
+Run 2: Max profit: 309
+Solution:1111010000
+Run 3: Max profit: 309
+Solution:1111010000
+Run 4: Max profit: 309
+Solution:1111010000
+Run 5: Max profit: 309
+Solution:1111010000
+Run 6: Max profit: 309
+Solution:1111010000
+Run 7: Max profit: 309
+Solution:1111010000
+Run 8: Max profit: 309
+Solution:1111010000
+Run 9: Max profit: 309
+Solution:1111010000
+Run 10: Max profit: 309
+Solution:1111010000
+Run 11: Max profit: 309
+Solution:1111010000
+Run 12: Max profit: 309
+Solution:1111010000
+Run 13: Max profit: 309
+Solution:1111010000
+Run 14: Max profit: 309
+Solution:1111010000
+Run 15: Max profit: 309
+Solution:1111010000
+Run 16: Max profit: 309
+Solution:1111010000
+Run 17: Max profit: 309
+Solution:1111010000
+Run 18: Max profit: 309
+Solution:1111010000
+Run 19: Max profit: 309
+Solution:1111010000
+Run 20: Max profit: 309
+Solution:1111010000
+Run 21: Max profit: 309
+Solution:1111010000
+Run 22: Max profit: 309
+Solution:1111010000
+Run 23: Max profit: 309
+Solution:1111010000
+Run 24: Max profit: 309
+Solution:1111010000
+Run 25: Max profit: 309
+Solution:1111010000
+Run 26: Max profit: 309
+Solution:1111010000
+Run 27: Max profit: 309
+Solution:1111010000
+Run 28: Max profit: 309
+Solution:1111010000
+Run 29: Max profit: 309
+Solution:1111010000
+Run 30: Max profit: 309
+Solution:1111010000
